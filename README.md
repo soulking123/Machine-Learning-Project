@@ -4,7 +4,7 @@ This repository contains a collection of machine learning projects I have implem
 
 ## Projects
 
-1. [Project 1](./Image%20Classification/): Brief project description or overview.
+1. [Image Classification](./Image%20Classification/): MINST Number classification with TensorFlow.
    - This is an image classification project, this project will show you how to build the model from scratch, how to prepare the data, define the callback for early stopping when training the data, etc.
 
 ## Requirements
