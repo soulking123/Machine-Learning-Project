@@ -10,11 +10,11 @@ This repository contains a collection of machine learning projects I have implem
 ## Requirements
 
 - Python 3.x
-- Dependencies for each project are mentioned in their respective project folders. Please refer to the README.md file within each project for specific dependencies.
+- Google Colab
 
 ## Usage
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your_username/Machine-Learning-Projects.git
+   git clone https://github.com/soulking123/Machine-Learning-Project.git
